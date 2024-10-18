@@ -22,6 +22,7 @@ public class Test {
 //        URI uri = new URI(invalidUrl); // Это вызовет IllegalArgumentException
         Test test = new Test();
         System.out.println(test.test());
+        System.out.println("Hellow orld");
     }
 
     public static void aVoid() {
