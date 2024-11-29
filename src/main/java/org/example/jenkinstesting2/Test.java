@@ -23,6 +23,7 @@ public class Test {
         Test test = new Test();
         System.out.println(test.test());
         System.out.println("Hellow orld");
+        System.out.println("DADADAS");
     }
 
     public static void aVoid() {
