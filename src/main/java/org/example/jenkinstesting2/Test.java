@@ -24,6 +24,7 @@ public class Test {
         System.out.println(test.test());
         System.out.println("Hellow orld");
         System.out.println("DADADAS");
+        System.out.println("net net net");
     }
 
     public static void aVoid() {
